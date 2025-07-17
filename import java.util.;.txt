@@ -46,7 +46,7 @@ class Account {
         Scanner sc = new Scanner(System.in);
 
         
-        Account acc = new Account("Prashant Kumar Sharma", "1234567890", "SBIN0001234", 5000.0);
+        Account acc = new Account("Kushal jain", "1234567890", "SBIN0001234", 5000.0);
         acc.displayAccount();
 
         
